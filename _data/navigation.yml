@@ -1,6 +1,26 @@
 # Site navigation links
 
-- title:
-  url:
+- title: Home 
+  url: /home/
   excerpt:
+  image:
+
+- title: Services
+  url: /services/
+  excerpt:
+  image:
+
+- title: Project
+  url: /project/
+  excerpt: 
+  image:
+
+- title: Courses
+  url: /courses/
+  excerpt: 
+  image:
+
+- title: About
+  url: /about/
+  excerpt: 
   image:
